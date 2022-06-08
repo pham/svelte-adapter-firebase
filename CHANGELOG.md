@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.14.2](https://www.github.com/pham/svelte-adapter-firebase/compare/v0.14.1...v0.14.2) (2022-06-08)
+
+
+### Bug Fixes
+
+* integration tests ([fe398de](https://www.github.com/pham/svelte-adapter-firebase/commit/fe398de2baa03de5d9d33a01b9024a97ee6da516))
+
 ### [0.14.1](https://www.github.com/pham/svelte-adapter-firebase/compare/v0.14.0...v0.14.1) (2022-06-02)
 
 
